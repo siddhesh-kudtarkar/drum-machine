@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #b9f287;
+    font-family: 'PT Sans', sans-serif;
+}
+
+#display, #form-range {
+    background-color: #b9f287;
+    width: 100%;
+}
+
+#drum-pad:active {
+    background-color: yellow;
+    color: black;
+}
